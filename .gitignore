@@ -1,0 +1,7 @@
+# backend
+/flask_backend/myenv/
+/flask_backend/uploads/
+
+# frontend
+/nextjs_frontend/node_modules/
+/nextjs_frontend/.next/
